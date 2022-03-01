@@ -1,7 +1,7 @@
 # **Big O Notation**
-##Forma de classificar o qual a escalabilidade do algoritimo.
+## Forma de classificar o qual a escalabilidade do algoritimo.
 
-###Essa classificação é feita de duas formas:
+### Essa classificação é feita de duas formas:
 - Tempo / Time Complexity
 - Espaço / Space Complexity
 
