@@ -21,3 +21,11 @@
 
  ## Space Complexity / Complexidade de Espaço
  - A complexidade do espaço é a quantidade total de espaço de memória usado por um algoritmo/programa incluindo o espaço de valores de entrada para execução. Assim, para encontrar a complexidade do espaço, basta calcular o espaço ocupado pelas variáveis ​​utilizadas em um algoritmo/programa.
+
+
+ ***Bibliografia:***
+ https://medium.com/linkapi-solutions/o-que-%C3%A9-big-o-notation-32f171e4a045
+
+ https://www.faceprep.in/data-structures/space-complexity/#:~:text=Space%20complexity%20is%20the%20total,used%20in%20an%20algorithm%2Fprogram.
+
+ https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/#:~:text=Time%20complexity%20is%20the%20amount,you%20understand%20time%20complexity%20clearly.
